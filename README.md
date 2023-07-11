@@ -11,7 +11,7 @@
 
 | Project | Score | 
 | :- | :-: |
-| Libft <img width=150>| [![stoprak's 42 Libft Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2827638)](https://github.com/sntoprak/ft_libft) |
+| Libft <img width=150>| [![stoprak's 42 Libft Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2827638)](https://github.com/sntoprak/ft_libft_42) |
 | ft_printf | [![stoprak's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2889152)](https://github.com/JaeSeoKim/badge42) |
 | get_next_line | [![stoprak's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2906089)](https://github.com/JaeSeoKim/badge42) |
 </td>
