@@ -28,7 +28,6 @@
 - 💬 Ask me about **42 Ecole hakkında sorular.**
 
 - 📫 How to reach me **sevde61548@gmail.com**
-- 
 <img align="right" alt="pixelart" width="400" src="https://i.pinimg.com/originals/51/35/6c/51356c29049d292651cb558c6f176430.gif">
 
 <h3 align="left">Connect with me:</h3>
