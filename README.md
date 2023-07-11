@@ -1,8 +1,7 @@
 <h1 align="center">Hi ✋🏻, I'm Sevde Nur TOPRAK</h1>
-<h3 align="center">42 Kocaeli Eğitim kurumunda Yazılımcıyım.</h3>
+<h3 align="center">42 Kocaeli Eğitim kurumunda Yazılımcıyım.</h4>
 
-## My 42 stats and projects
-
+<h3 align="center"> My 42 Projects.</h3>
 <p align="center">
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/stats?cursusId=21&coalitionId=362" alt="stoprak's 42 stats" /></a>
 <table widht="100%" align="center">
