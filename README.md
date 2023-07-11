@@ -1,6 +1,30 @@
 <h1 align="center">Hi ✋🏻, I'm Sevde Nur TOPRAK</h1>
 <h3 align="center">42 Kocaeli Eğitim kurumunda Yazılımcıyım.</h3>
 
+## My 42 stats and projects
+
+<p align="center">
+	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/stats?cursusId=21&coalitionId=362" alt="stoprak's 42 stats" /></a>
+<table widht="100%" align="center">
+  <tr style="display:flex; justify-content:space-around; padding:0;">
+  <td style="padding:0; margin:0;">
+
+| Project | Score | 
+| :- | :-: |
+| Libft <img width=150>| [![stoprak's 42 Libft Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2827638)](https://github.com/JaeSeoKim/badge42) |
+| ft_printf | [![stoprak's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2889152)](https://github.com/JaeSeoKim/badge42) |
+| get_next_line | [![stoprak's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2906089)](https://github.com/JaeSeoKim/badge42) |
+</td>
+  <td style="padding:0; margin:0;">
+
+|Project|Score| 
+| :-	|	:-:	|
+| Born2beroot | [![stoprak's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/2913431)](https://github.com/JaeSeoKim/badge42) |
+| minitalk | [![stoprak's 42 minitalk Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/3047621)](https://github.com/JaeSeoKim/badge42) |
+| so_long | [![stoprak's 42 so_long Score](https://badge42.vercel.app/api/v2/cljy0vhq4001108mo3vnaqqcn/project/3154089)](https://github.com/JaeSeoKim/badge42)|
+
+  </td></tr>
+  </table>
 - 💬 Ask me about **42 Ecole hakkında sorular.**
 
 - 📫 How to reach me **sevde61548@gmail.com**
